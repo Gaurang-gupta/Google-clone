@@ -4,4 +4,6 @@ export const API_KEY = "AIzaSyCVp3GupSjmz1US0QErKIykgoXnizJAbns"
 
 // context key - https://cse.google.com/cse/create/new
 
-export const CONTEXT_KEY = "4b21f1aaa8206aecb"
+export const CONTEXT_KEY = "24633947906eb4380"
+
+// project is my search engine
